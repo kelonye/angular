@@ -1,0 +1,10 @@
+{
+  "name": "angular",
+  "version": "1.0.7",
+  "dependencies": {
+  },
+  "scripts": [
+    "index.js",
+    "lib/angular.js"
+  ]
+}
